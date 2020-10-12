@@ -1,6 +1,7 @@
 Slight tweaks / kexts updates
 
-UPDATE to OpenCore 6.2. No other modifications.. catalina 10.15.7
+UPDATE to OpenCore 6.2. No other modifications.. catalina 10.15.7 
+:: macOS Catalina Version 10.15.7 (Build 19H2)
 
 This config boots Catalina, but has untested stability.   Sometimes the config fails to properly load audio /etc  during load.  Oterwise highly stable.
 
